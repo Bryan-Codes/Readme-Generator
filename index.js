@@ -92,6 +92,7 @@ function generateREADME(data) {
     # Title: ${data.title}
       
     ${licenseBadge(data.license)}
+    
     ## Description: 
         ${data.description}
     
@@ -115,6 +116,7 @@ function generateREADME(data) {
     ## Test: 
         ${data.test}
     ${licenseNotice(data.license)}
+
     ## Questions
     Contact me: \n
         -gitHub username: ${data.gitHub} \n

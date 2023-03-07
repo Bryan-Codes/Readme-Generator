@@ -1,10 +1,11 @@
 
-    # Title: Readme Generator
+    # Readme Generator
+
       
     ![ISC](https://img.shields.io/badge/license-ISC-brightgreen) 
 
     ## Description: 
-        Description
+        description
     
     ## Table of Contents: 
     - [Description](#description) 
@@ -16,20 +17,21 @@
     - [Questions](#questions) 
     
     ## Installation: 
-        Install
+        install
     
     ## Usage: 
-        Instructions
+        use
     
     ## Credits: 
-        Youtube, Google, Teacher
+        everyone
     
     ## Test: 
-        Test
+        test
      
  ## License: 
         The license chosen was ISC. 
  
+    
     
     ## Questions
     Contact me: 
